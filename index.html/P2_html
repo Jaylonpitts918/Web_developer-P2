@@ -1,27 +1,36 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<html>
+<html> 
+
     <head>
-        <div>
-        <title>Booki Mockup</title>
-        <p>Accomidation<br>Activites</p>
-        </div>
+        <title>Booki</title>
+        <img src="Booki@3x" alt="title booki"/>
+        <ul>
+            <li><a href="gvuybibyb" <br>Accomidation</a></li>
+            <li><a href="ibibibvivi"<br>Activites</a></li>
+        </ul>
     </head>
 
     <body>
 <h3>Find a place for your dream location</h3>
-Downtown or in nature
-<em>Marsille,France
+<h6>Downtown or in nature</h6>
+<nav class="menu">
+<form class="search-form">
+    <input type="text" placeholder="Marseille,France">
+    <button>Search</button>
+</form>
     <div>
         <ul>
             Filters
-            <li>Low cost</li>
-            <li>Family-friendly</li>
-            <li>Romantic</li>
-            <li>Pets allowed</li>
+            <li><a href="#">Low cost</a></li>
+            <li><a href="#">Family-friendly</a></li>
+            <li><a href="#">Romantic</a></li>
+            <li><a href="#">Pets allowed</a></li>
 
         </ul>
+
     </div>
+    </nav>
     <div>
         more than 500 accomadtions are avalible in this city
     </div>
@@ -76,5 +85,3 @@ Downtown or in nature
         </ul>
 </footer>
 </html>
-
-#
