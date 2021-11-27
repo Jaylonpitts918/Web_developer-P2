@@ -1,12 +1,20 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en">
 <head>
-        <title>Booki</title>
+    /* somethings */
+    <title>Booki!</title>
+    <link rel="stylesheet" href="css/P2_CSS">
+    <script src="https://kit.fontawesome.com/ec6603379d.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    
+    
+       /* <title>Booki</title>
         <img src="Booki@3x" alt="title booki"/>
         <ul>
             <li><a href="gvuybibyb" <br>Accomidation</a></li>
             <li><a href="ibibibvivi"<br>Activites</a></li>
-        </ul>
+        </ul> */
     </head>
 
     <body>
