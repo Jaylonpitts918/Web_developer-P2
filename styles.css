@@ -1,12 +1,8 @@
-.Accomadations-list {
-   flex-direction: column;
+.Logo {
+   flex-direction: row;
+   justify-content: left;
    width: 304 px;
    margin: 0;
-   background-colour: white;
+   background-color: white;
     
 }
-
-Accomadations-box
-Accommodations-container
-Sect-accommodations
-Accommodations-stars
