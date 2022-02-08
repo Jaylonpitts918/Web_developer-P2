@@ -1,24 +1,17 @@
 body {
-   background-color: white;
+  background-color: white;
 }
 
 header {
+   border: 1px solid white;
+   margin-top: 100px;
+   margin-bottom: 100px;
+   margin-right: 150px;
+   margin-left: 80px;
+   background-color: white;
+}
+
+nav {
    display: flex;
    align-items: right;
-   justify-content: space-around;
-}
-
-.Logo {
-   flex-direction: row;
-   justify-content: left;
-   width: 304 px;
-   margin: 0;
-   background-color: white;
-    
-}
-
-.top-links {
-   flex-direction: row;
-   justify-content: right;
-
-}
+   justify-content: space-between;
