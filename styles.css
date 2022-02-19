@@ -3,15 +3,77 @@ body {
 }
 
 header {
-   border: 1px solid white;
-   margin-top: 100px;
-   margin-bottom: 100px;
-   margin-right: 150px;
-   margin-left: 80px;
+   border: solid white;
+   margin-top: 10px;
+   margin-bottom: 50px;
+   margin-right: 50px;
+   margin-left: 50px;
    background-color: white;
 }
 
 nav {
    display: flex;
-   align-items: right;
+   align-items:stretch;
    justify-content: space-between;
+}
+
+.logo{
+   margin-top: 10px;
+   margin-bottom: 30px;
+   margin-right: 150px;
+   margin-left: 0px;
+   background-color: white;
+}
+
+img{
+   
+}
+
+.top-links{
+  gap: 
+}
+.top-links:hover{
+   border-top: 1px solid #0000ff;
+}
+
+a:hover{
+   color: blue;
+}
+
+a {
+  text-decoration: none !important;
+  color: black
+}
+
+b{
+  
+}
+
+h6{
+  
+}
+
+form{
+   display: flex;
+   justify-content: start;
+}
+
+.fas{
+  border-radius:50px;
+  background-color: grey;
+  margin-top: 0px;
+   margin-bottom: 10px;
+   margin-right: 0px;
+   margin-left: 0px;
+  font-size:18px;
+  width:40px;
+  
+}
+
+.placeholder{
+  border-radius:px;
+}
+
+input{
+  border-radius:8px;
+}
